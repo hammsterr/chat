@@ -184,9 +184,12 @@ io.getstream.chat.android.ui.feature.messages.composer.content
 io.getstream.chat.android.ui.feature.messages.header
 io.getstream.chat.android.ui.feature.messages.list
 io.getstream.chat.android.ui.feature.messages.list.adapter
+io.getstream.chat.android.ui.feature.messages.list.adapter.internal
 io.getstream.chat.android.ui.feature.messages.list.adapter.view
 io.getstream.chat.android.ui.feature.messages.list.adapter.view.internal
 io.getstream.chat.android.ui.feature.messages.list.adapter.viewholder.attachment
+io.getstream.chat.android.ui.feature.messages.list.adapter.viewholder.decorator
+io.getstream.chat.android.ui.feature.messages.list.adapter.viewholder.impl
 io.getstream.chat.android.ui.feature.messages.list.background
 io.getstream.chat.android.ui.feature.messages.list.options.message
 io.getstream.chat.android.ui.feature.messages.list.reactions
